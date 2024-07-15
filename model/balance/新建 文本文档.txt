@@ -1,0 +1,17 @@
+# 2094 === 10h:38m:43s ===
+||Loss Actor               : -0.0924
+||Loss Critic              : 0.7939
+||Loss Muscle              : 0.0096
+||Noise                    : 0.422
+||Num Transition So far    : 4303376
+||Num Transition           : 1886
+||Num Episode              : 48
+||Avg Return per episode   : 18.834
+||Avg Reward per transition: 0.479
+||Avg Step per episode     : 39.3
+||Max Avg Retun So far     : 18.834 at #2094
+save simulation nn ../nn/current.pt
+save muscle nn ../nn/current_muscle.pt
+save simulation nn ../nn/max.pt
+save muscle nn ../nn/max_muscle.pt
+=============================================

@@ -1,0 +1,12 @@
+# 2282 === 8h:33m:19s ===
+||Loss Actor               : -0.0865
+||Loss Critic              : 20.3756
+||Loss Muscle              : 0.0007
+||Noise                    : 0.546
+||Num Transition So far    : 4688814
+||Num Transition           : 2018
+||Num Episode              : 7
+||Avg Return per episode   : 66.900
+||Avg Reward per transition: 0.232
+||Avg Step per episode     : 288.3
+||Max Avg Retun So far     : 80.537 at #2123
